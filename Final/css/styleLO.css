@@ -1,0 +1,161 @@
+body{
+    background-color: black;
+}
+
+.fondo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 320px;
+    text-align: center;
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 12px;
+    padding: 10px 20px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    box-shadow: 5px 5px 10px 0 rgb(255, 255, 255);
+}
+
+.fondo h2{
+    font-size: 30px;
+    color: white;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0 );
+    padding: 10px;
+}
+
+
+.input-field{
+    position: relative;
+}
+
+.input-field [type="usuario"],
+.input-field [type="password"]{
+    border-radius: 10px;
+    background: transparent;
+    margin: 15px;
+    width: 270px;
+    height: 2px;
+    padding: 20px 40px 20px 20px;
+    backdrop-filter: blur(15px);
+    color: black;
+    font-weight: 200;
+}
+
+.input-field i {
+    position: absolute;
+    top: 50;
+    transform: translateY(-50%);
+    right: 10px;
+    color: rgb(0 ,0, 0);
+}
+
+input::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+.input-field input[type="usuario"]:focus::placeholder,
+.input-field input[type="password"]:focus::placeholder{
+    transform: translateY(-100%);
+    transition: transform 0.2s ease-in-out;
+    font-size: 14px;
+}
+
+.input-field input[type="usuario"]:not(:focus)::placeholder,
+.input-field input[type="password"]:not(:focus)::placeholder{
+    transform: translateY(0%);
+    transition: transform 0.2s ease-in-out;
+    font-size: 16px;
+}
+
+a.sign-up {
+    text-decoration: none;
+    position: relative;
+    color: rgb(0, 0, 0);
+}
+
+a.sign-up:hover{
+    text-decoration: underline;
+    color: #fffffd;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1; /* Hace que el video quede atrás del formulario */
+}
+
+button {
+    --glow-color: rgba(255, 255, 255);
+    --glow-spread-color: rgba(255, 215, 0);
+    --enhanced-glow-color: rgb(231, 206, 255);
+    --btn-color: rgba(255, 215, 0, 0.5); 
+    border: 2px solid var(--glow-color);
+    padding: 5px;
+    color: var(--glow-color); 
+    font-size: 20px; 
+    font-weight: 400;
+    background-color: var(--btn-color); 
+    border-radius: 32px; 
+    outline: none;
+    box-shadow: 0 0 1px 2px var(--glow-color),
+        0 0 10px 10px var(--glow-spread-color), 
+        inset 0 0 .75px .24px var(--glow-color);
+    text-shadow: 0 0 .5px var(--glow-color); 
+    position: relative;
+    transition: all 0.35s;
+    cursor: pointer;
+}
+
+button::after {
+    pointer-events: none;
+    content: "";
+    position: absolute;
+    top: 120%;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: var(--glow-spread-color);
+    filter: blur(2px);
+    opacity: .7;
+}
+
+button:hover {
+    color: var(--btn-color);
+    background-color: var(--glow-color);
+    box-shadow: 0 0 1em .25em var(--glow-color),
+        0 0 4em 2em var(--glow-spread-color), 
+        inset 0 0 .75em .25em var(--glow-color);
+}
+    button:active{
+    box-shadow: 0 0 0.6em .25em var(--glow-color),
+        0 0 2.5em 2em var(--glow-spread-color), 
+        inset 0 0 .5em .25em var(--glow-color);
+    }

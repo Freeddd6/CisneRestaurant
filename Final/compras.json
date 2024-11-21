@@ -1,0 +1,1146 @@
+[
+    {
+        "usuario": "hola",
+        "total": "135",
+        "productos": [
+            {
+                "id": "4",
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "precio": 70,
+                "cantidad": 1
+            },
+            {
+                "id": "16",
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "precio": 65,
+                "cantidad": 1
+            }
+        ],
+        "fecha": "2024-10-21 03:23:37"
+    },
+    {
+        "usuario": "hola",
+        "total": "280",
+        "productos": [
+            {
+                "id": "17",
+                "nombre": "ENSALADA",
+                "precio": 70,
+                "cantidad": 2
+            },
+            {
+                "id": "5",
+                "nombre": "ENCHILADAS VERDES \u00d3 ROJAS",
+                "precio": 70,
+                "cantidad": 2
+            }
+        ],
+        "fecha": "2024-10-21 03:24:09"
+    },
+    {
+        "usuario": "hola",
+        "total": "125",
+        "productos": [
+            {
+                "id": "22",
+                "nombre": "AGUA DEL DIA",
+                "precio": 75,
+                "cantidad": 1
+            },
+            {
+                "id": "21",
+                "nombre": "REFRESCO 355ML",
+                "precio": 25,
+                "cantidad": 2
+            }
+        ],
+        "fecha": "2024-10-21 03:26:26"
+    },
+    {
+        "usuario": "ismael15",
+        "total": "80",
+        "productos": [
+            {
+                "id": "1",
+                "nombre": "PAQUETE CISNE 1",
+                "precio": 80,
+                "cantidad": 1
+            }
+        ],
+        "fecha": "2024-11-05 15:09:27"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 310,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-09 17:58:38"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 910,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 2,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 3,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "ENCHILADAS VERDES \u00d3 ROJAS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "ENSALADA",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "HUEVOS AL GUSTO",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "ENCHILADAS SUIZAS",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-09 17:59:15"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 515,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 2,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "ENCHILADAS VERDES \u00d3 ROJAS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "ENSALADA",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-09 18:15:16"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 330,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            }
+        ],
+        "fecha": "2024-11-09 20:27:09"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 295,
+        "productos": [
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-09 20:27:53"
+    },
+    {
+        "usuario": "ismael15",
+        "total": 245,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-09 20:59:14"
+    },
+    {
+        "usuario": "isma18",
+        "total": 245,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-09 21:00:07"
+    },
+    {
+        "usuario": "isma18",
+        "total": 160,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-09 21:11:16"
+    },
+    {
+        "usuario": "isma27",
+        "total": 225,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-10 05:44:18"
+    },
+    {
+        "usuario": "isma18",
+        "total": 180,
+        "productos": [
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-10 19:36:21"
+    },
+    {
+        "usuario": "isma18",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-10 20:34:20"
+    },
+    {
+        "usuario": "isma18",
+        "total": 120,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 2,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-10 20:36:09"
+    },
+    {
+        "usuario": "hola",
+        "total": 100,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-11 01:11:51"
+    },
+    {
+        "usuario": "hola",
+        "total": 540,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            },
+            {
+                "nombre": "SINCRONIZADA HAWAIANA",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-11 02:31:43"
+    },
+    {
+        "usuario": "hola",
+        "total": 180,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 02:33:08"
+    },
+    {
+        "usuario": "hola",
+        "total": 100,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-11 02:33:52"
+    },
+    {
+        "usuario": "hola",
+        "total": 680,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 7,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 6,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-11 02:34:57"
+    },
+    {
+        "usuario": "hola",
+        "total": 555,
+        "productos": [
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 2,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CHILAQUILES VERDES \u00d3 ROJOS",
+                "cantidad": 1,
+                "precio": 70
+            }
+        ],
+        "fecha": "2024-11-11 02:35:13"
+    },
+    {
+        "usuario": "hola",
+        "total": 340,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 4,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-11 02:36:39"
+    },
+    {
+        "usuario": "hola",
+        "total": 340,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 2,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 2,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 03:17:21"
+    },
+    {
+        "usuario": "hola",
+        "total": 405,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 03:59:23"
+    },
+    {
+        "usuario": "hola",
+        "total": 100,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-11 03:59:49"
+    },
+    {
+        "usuario": "hola",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 04:00:26"
+    },
+    {
+        "usuario": "hola",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 04:00:50"
+    },
+    {
+        "usuario": "isma",
+        "total": 160,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 10:51:39"
+    },
+    {
+        "usuario": "isma",
+        "total": 160,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-11 10:52:06"
+    },
+    {
+        "usuario": "fred",
+        "total": 165,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-13 07:46:42"
+    },
+    {
+        "usuario": "fred",
+        "total": 245,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            },
+            {
+                "nombre": "PAQUETE CISNE 2",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 08:30:09"
+    },
+    {
+        "usuario": "fred",
+        "total": 225,
+        "productos": [
+            {
+                "nombre": "PAQUETE KID",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "CLUB SANDWITCH",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-13 08:36:53"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 08:44:44"
+    },
+    {
+        "usuario": "dd",
+        "total": 85,
+        "productos": [
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-13 08:47:50"
+    },
+    {
+        "usuario": "dd",
+        "total": 100,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-13 10:38:48"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:41:17"
+    },
+    {
+        "usuario": "dd",
+        "total": 20,
+        "productos": [
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-13 10:42:46"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:44:06"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:44:38"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:45:51"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:46:36"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:47:44"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:48:12"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:48:29"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:48:39"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:54:53"
+    },
+    {
+        "usuario": "dd",
+        "total": 20,
+        "productos": [
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-13 10:55:21"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 10:56:09"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:08:23"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:11:11"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:13:58"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:14:42"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:15:47"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:16:18"
+    },
+    {
+        "usuario": "dd",
+        "total": 20,
+        "productos": [
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-13 11:17:04"
+    },
+    {
+        "usuario": "dd",
+        "total": 165,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            },
+            {
+                "nombre": "TORTA DE CHILAQUILES",
+                "cantidad": 1,
+                "precio": 65
+            }
+        ],
+        "fecha": "2024-11-13 11:17:14"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:19:35"
+    },
+    {
+        "usuario": "dd",
+        "total": 100,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            },
+            {
+                "nombre": "MOLLETES",
+                "cantidad": 1,
+                "precio": 20
+            }
+        ],
+        "fecha": "2024-11-13 11:20:39"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-13 11:32:39"
+    },
+    {
+        "usuario": "dd",
+        "total": 80,
+        "productos": [
+            {
+                "nombre": "PAQUETE CISNE 1",
+                "cantidad": 1,
+                "precio": 80
+            }
+        ],
+        "fecha": "2024-11-21 05:03:58"
+    }
+]

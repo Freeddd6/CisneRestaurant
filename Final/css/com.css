@@ -1,0 +1,78 @@
+.perfil {
+    max-width: 800px;
+    margin: 0 auto;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+.perfil h2{
+    font-size: 30px;
+    color: white;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0 );
+    padding: 10px;
+}
+
+.perfil p{
+    font-size: 15px;
+    color: white;
+}
+
+:root{
+    --bg-color:#fff;
+    --primary-color:#FFC107;
+}
+
+.btm {
+    color: var(--primary-color);
+    font-size: 20px;
+    padding: 10px 25px;
+    margin-top: 1rem;
+    border: 4px solid var(--primary-color);
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 
+        0 0 .150em var(--primary-color), 
+        inset 0 0 .3em 0 var(--primary-color);
+    text-shadow: 0 0 .125em currentColor;
+    position: relative;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 300ms ease;
+}
+
+.btm::before{
+    content: ' ';
+    position: absolute;
+    left: -20%;
+    top: 1200%;
+    width: 300px;
+    height: 80px;
+    background-color: var(--primary-color);
+    filter: blur(20px);
+    opacity: -7;
+    transform: perspective(1em) rotate(40deg);
+}
+
+.btm::after{
+    content: ' ';
+    position: absolute;
+    inset: 0;
+    box-shadow: 0 0 1em .2em var(--primary-color);
+    opacity: 0;
+    border-radius: inherit;
+}
+
+.btm:hover{
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    text-shadow: none;
+}
+
+.btm:hover::after{
+    opacity: 1;
+}

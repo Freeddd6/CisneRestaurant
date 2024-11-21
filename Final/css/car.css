@@ -1,0 +1,179 @@
+body {
+    background: url(IMGs/fondoP.jpg) no-repeat;
+background-position: center;
+background-size: cover;
+width: 100%;
+height: 100%;
+}
+
+.perfil {
+    max-width: 400px;
+    margin: 0 auto;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+.perfil h2{
+    font-size: 30px;
+    color: white;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0 );
+}
+
+.perfil-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.compras-lista {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+/* Tarjetas de compras */
+.compra-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+
+.compra-card:hover {
+    transform: translateY(-5px);
+}
+
+.compra-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.compra-header h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.compra-header .estado {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+/* Colores según el estado de la compra */
+.estado.completada {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.estado.pendiente {
+    background-color: #FFC107;
+    color: #fff;
+}
+
+.estado.cancelada {
+    background-color: #F44336;
+    color: #fff;
+}
+
+.compra-detalles p {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #555;
+}
+
+.compra-detalles .productos {
+    margin-top: 15px;
+}
+
+.compra-detalles .productos ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.compra-detalles .productos li {
+    font-size: 0.95rem;
+    color: #666;
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    .compras-lista {
+        grid-template-columns: 1fr;
+    }
+
+    .compra-card {
+        padding: 15px;
+    }
+
+    .compra-header h3 {
+        font-size: 1.3rem;
+    }
+
+    .compra-detalles p {
+        font-size: 0.95rem;
+    }
+
+    .compra-detalles .productos li {
+        font-size: 0.9rem;
+    }
+}
+
+button{
+    cursor: pointer;
+    display: inline-block;
+    border:1px solid;
+    height: 20px;
+    border-radius:40px;
+    background-color:pink;
+    font-weight:600;
+    color:black;
+    transition:0.2s ease;
+}
+button:hover {
+    box-shadow: 0 4px 16px rgba(49,138,172,1);
+    transition:0.2s ease;
+    transform:scale(1.2);
+}
+
+.btn {
+    cursor: pointer;
+     border:1px solid;
+     padding: 12px 25px;
+     height: 30px;
+     border-radius:40px;
+     background-color:#efb810;
+     font-weight:600;
+     color:black;
+     transition:0.35s ease;
+     text-align: center;
+ }
+ 
+ 
+ .btn:hover {
+     box-shadow: 0 4px 16px rgba(255, 215, 0);
+     transition:0.35s ease;
+     transform:scale(1.2);
+ }
+
+ .reset {
+    background-color: #f44336;
+}
+
+.reset:hover {
+    box-shadow: 0 4px 16px rgb(255, 0, 0);
+    transition:0.35s ease;
+    transform:scale(1.2);
+}

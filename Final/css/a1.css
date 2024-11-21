@@ -1,0 +1,102 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8e8;
+    color: #111;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #343a40;
+    margin-top: 20px;
+}
+
+/* Enlace para volver al menú */
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    background-color: #ffe372;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.total-container {
+    background-color: #ffdd99;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+    background-color: #ced4da;
+}
+
+/* Estilos para productos en el carrito */
+o {
+    background-color: white;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Contenedor total y botón de finalizar compra */
+.total-container {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #495057;
+}
+
+.finalizar-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.finalizar-btn:hover {
+    background-color: #218838;
+}
+
+/* Botones de acciones */
+button[type="submit"] {
+    background-color: white;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 5px;
+}
+
+button[type="submit"]:hover {
+    background-color: #c82333;
+}
+
+/* Botón de reiniciar carrito */
+form[method="POST"] button[name="reiniciar"] {
+    background-color: #ffc107;
+    color: #212529;
+    font-weight: bold;
+}
+
+form[method="POST"] button[name="reiniciar"]:hover {
+    background-color: #e0a800;
+}
+
+/* Estilos para separar productos */
+hr {
+    border: none;
+    border-top: 1px solid #dee2e6;
+    margin: 15px 0;
+}

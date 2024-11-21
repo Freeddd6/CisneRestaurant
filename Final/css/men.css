@@ -1,0 +1,126 @@
+
+
+h2{
+    font-size: 30px;
+    color: white;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0 );
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+h2:hover {
+    transform: translateY(-5px);
+}
+
+
+/* Estilo de los mensajes */
+.center {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+/* Contenedor de las compras */
+.compras-lista {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+/* Tarjetas de compras */
+.compra-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+
+.compra-card:hover {
+    transform: translateY(-5px);
+}
+
+.compra-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.compra-header h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.compra-header .estado {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+/* Colores según el estado de la compra */
+.estado.completada {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.estado.pendiente {
+    background-color: #FFC107;
+    color: #fff;
+}
+
+.estado.cancelada {
+    background-color: #F44336;
+    color: #fff;
+}
+
+.compra-detalles p {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #555;
+}
+
+.compra-detalles .productos {
+    margin-top: 15px;
+}
+
+.compra-detalles .productos ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.compra-detalles .productos li {
+    font-size: 0.95rem;
+    color: #666;
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    .compras-lista {
+        grid-template-columns: 1fr;
+    }
+
+    .compra-card {
+        padding: 15px;
+    }
+
+    .compra-header h3 {
+        font-size: 1.3rem;
+    }
+
+    .compra-detalles p {
+        font-size: 0.95rem;
+    }
+
+    .compra-detalles .productos li {
+        font-size: 0.9rem;
+    }
+}
+
+
